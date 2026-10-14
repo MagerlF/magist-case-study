@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+Icon?
+
+# Editoren
+.vscode/
+.idea/
+*.swp
+
+# Zugangsdaten
+*.env
+.env*
+*credentials*
+*recovery-codes*
+*secret*
+*.pem
+*.key
+my.cnf
+
+# Grosse Datenbank-Dumps
+*.sql.gz
+magist_dump.sql
+dump*.sql
