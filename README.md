@@ -236,3 +236,6 @@ Dreiergruppe bearbeitet und gemeinsam vor dem CEO präsentiert, mit einem festen
 Zeitfenster von vier Minuten und anschließender Fragerunde.
 
 Dieses Repository enthält meine Analyse und Dokumentation.
+
+Eine zweite Fallstudie, diesmal mit Python:
+[eniac-discount-analysis](https://github.com/MagerlF/eniac-discount-analysis)
